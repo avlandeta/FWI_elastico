@@ -1,0 +1,38 @@
+# Compilados
+*.o
+*.mod
+*.so
+*.a
+*.exe
+*.out
+build/
+bin/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Datos y resultados pesados
+*.bin
+*.su
+*.segy
+*.sgy
+*.rsf
+*.npy
+*.npz
+*.h5
+*.hdf5
+data/
+outputs/
+results/
+
+# Figuras y logs
+*.png
+*.pdf
+*.log
+
+# Sistema
+.DS_Store
+*.swp
+Exp_radiation_pattern/
